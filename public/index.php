@@ -2,7 +2,6 @@
 // On inclut la config pour la base de données
 require_once 'config/db.php';
 
-// TODO   : Penser à vérifier la session ici si besoin plus tard
 ?>
 <!DOCTYPE html>
 <html lang="fr">
